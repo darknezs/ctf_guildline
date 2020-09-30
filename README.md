@@ -9,7 +9,12 @@
 - /robots.txt
 - /sitemap.xml
 - /admin
-  - aaa
 # Steganography
+- exiftool
+- binwalk
+```sh
+$ binwalk -e img
+```
+- steghide extract -sf img
 # Cryptography
 # Forensics
