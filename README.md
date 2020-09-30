@@ -37,6 +37,7 @@ $ steghide extract -sf img
 
 
 # Cryptography
-- found big integer: https://scwf.dima.ninja/
+- found big integer : https://scwf.dima.ninja/
+- CyberChef : https://gchq.github.io/CyberChef/
 # Forensics
 
