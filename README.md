@@ -9,6 +9,7 @@
 - /robots.txt
 - /sitemap.xml
 - /admin
+  - aaa
 # Steganography
 # Cryptography
 # Forensics
