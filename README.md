@@ -1,5 +1,5 @@
 # CTF_guildline
-คู่มือในการแข่ง CTF
+คู่มือในการแข่ง CTF(เบื้องต้น)
 # find flag commarnds
 ```sh
 $ strings <file> | grep "flag"
