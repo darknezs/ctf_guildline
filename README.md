@@ -13,6 +13,10 @@ $ strings <file> | grep "flag"
  ```sh
 $ strings <file> | less
 ```
+ ```sh
+$ printf '%s' "$(<flag.txt)"
+```
+
 # Web
 - ctrl+u
 - ctrl+shift+i
