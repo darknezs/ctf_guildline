@@ -2,13 +2,13 @@
 คู่มือในการแข่ง CTF
 
 # Web
-ctrl+u
-ctrl+shift+i
-cookie
-.js ไฟล์
-/robots.txt
-/sitemap.xml
-/admin
+- ctrl+u
+- ctrl+shift+i
+- cookie
+- .js ไฟล์
+- /robots.txt
+- /sitemap.xml
+- /admin
 # Steganography
 # Cryptography
 # Forensics
