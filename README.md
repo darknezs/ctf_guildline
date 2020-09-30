@@ -4,7 +4,15 @@
 ```sh
 $ strings <file> | grep "flag"
 ```
-ถ้ามีไฟล์เยอะๆ ```sh $ cat * | grep "flag" ```
+ ```sh 
+ $ cat * | grep "flag" 
+ ```
+ ```sh 
+ $ strings * | grep "flag" 
+ ```
+ ```sh
+$ strings <file> | less
+```
 # Web
 - ctrl+u
 - ctrl+shift+i
@@ -26,6 +34,9 @@ $ binwalk -e <img file>
 ```sh
 $ steghide extract -sf img
 ```
+
+
 # Cryptography
+- found big integer: https://scwf.dima.ninja/
 # Forensics
 
