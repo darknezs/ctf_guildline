@@ -11,10 +11,16 @@
 - /admin
 # Steganography
 - exiftool
+```sh
+$ exiftool <img file>
+```
 - binwalk
 ```sh
-$ binwalk -e img
+$ binwalk -e <img file>
 ```
-- steghide extract -sf img
+- steghide
+```sh
+$ steghide extract -sf img
+```
 # Cryptography
 # Forensics
