@@ -1,6 +1,10 @@
 # CTF_guildline
 คู่มือในการแข่ง CTF
-
+# find flag commarnds
+```sh
+$ strings <file> | grep "flag"
+```
+ถ้ามีไฟล์เยอะๆ ```sh $ cat * | grep "flag" ```
 # Web
 - ctrl+u
 - ctrl+shift+i
@@ -24,6 +28,4 @@ $ steghide extract -sf img
 ```
 # Cryptography
 # Forensics
-```sh
-import re
-```
+
