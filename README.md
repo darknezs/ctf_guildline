@@ -38,11 +38,18 @@ $ binwalk -e <img file>
 ```sh
 $ steghide extract -sf img
 ```
-
+- stegoveritas
+```sh
+$ pip3 install stegoveritas
+$ stegoveritas secret.png
+```
 
 # Cryptography
 - found big integer : https://scwf.dima.ninja/
 - CyberChef : https://gchq.github.io/CyberChef/
 - find p, q : http://factordb.com/
 # Forensics
-
+- Wireshark
+  - Voip
+  - follow stream
+  - extract object
