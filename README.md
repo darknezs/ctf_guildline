@@ -17,7 +17,7 @@ $ strings <file> | less
 $ printf '%s' "$(<flag.txt)"
 ```
  ```sh
-$ grep -roa "flag{.*} foldername" หรือ -Ril แต่จะโชว์แค่ขื่อไฟล์เท่านั้น
+$ grep -roa "flag{.*}" foldername หรือ -Ril แต่จะโชว์แค่ขื่อไฟล์เท่านั้น
  ```
 
 # Web
