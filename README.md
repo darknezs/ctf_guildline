@@ -51,8 +51,15 @@ $ stegoveritas secret.png
 - found big integer : https://scwf.dima.ninja/
 - CyberChef : https://gchq.github.io/CyberChef/
 - find p, q : http://factordb.com/
+- WingDing ⬧︎●︎♋︎⧫︎ : https://lingojam.com/WingDing
+- Book Cipher : https://www.dcode.fr/book-cipher
+- Keyed Caesar cipher : https://www.boxentriq.com/code-breaking/keyed-caesar-cipher
 # Forensics
 - Wireshark
   - Voip
   - follow stream
   - extract object
+# Mobile
+- try to read code at MainActivity class
+- apktool d <.apk>
+
