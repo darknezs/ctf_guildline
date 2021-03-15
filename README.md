@@ -28,6 +28,7 @@ $ grep -roa "flag{.*}" foldername หรือ -Ril แต่จะโชว์�
 - /robots.txt
 - /sitemap.xml
 - /admin
+- /.git/HEAD
 # Steganography
 - exiftool
 ```sh
