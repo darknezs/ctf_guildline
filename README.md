@@ -29,6 +29,7 @@ $ grep -roa "flag{.*}" foldername หรือ -Ril แต่จะโชว์�
 - /sitemap.xml
 - /admin
 - /.git/HEAD
+- try `cat index.php`
 # Steganography
 - exiftool
 ```sh
