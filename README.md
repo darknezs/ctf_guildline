@@ -19,7 +19,14 @@ $ printf '%s' "$(<flag.txt)"
  ```sh
 $ grep -roa "flag{.*}" foldername หรือ -Ril แต่จะโชว์แค่ขื่อไฟล์เท่านั้น
  ```
-
+# Linux Privilege Escalation
+ ```sh
+ $ sudo -l
+ ```
+  ```sh
+ $ find / perm +6000 2>/dev/null | grep '\bin\'
+ ```
+ - when found interested binaries from previous command https://gtfobins.github.io/
 # Web
 - ctrl+u
 - ctrl+shift+i
@@ -29,7 +36,7 @@ $ grep -roa "flag{.*}" foldername หรือ -Ril แต่จะโชว์�
 - /sitemap.xml
 - /admin
 - /.git/HEAD
-- try `cat index.php`
+- try `cat index.php`   // input validation
 # Steganography
 - exiftool
 ```sh
