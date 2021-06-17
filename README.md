@@ -37,6 +37,10 @@ $ grep -roa "flag{.*}" foldername หรือ -Ril แต่จะโชว์�
 - /admin
 - /.git/HEAD
 - try `cat index.php`   // input validation
+- Can enter site by some IP use 'X-Forwarded-For'
+  ```sh 
+  $ curl --header "X-Forwarded-For: 8.8.8.8" url 
+  ```
 # Steganography
 - exiftool
 ```sh
