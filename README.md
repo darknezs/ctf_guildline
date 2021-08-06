@@ -33,6 +33,8 @@ $ grep -roa "flag{.*}" foldername หรือ -Ril แต่จะโชว์�
 - cookie
 - .js ไฟล์
 - /robots.txt
+- .htaccess
+- .DS_Store
 - /sitemap.xml
 - /admin
 - /.git/HEAD
